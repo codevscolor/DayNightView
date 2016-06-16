@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nandan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_6ad6bac70a9e4e1d86bc2d899c8bab1a4801985e\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_91deaaa4a3993e5f8efbaecbd16c28e4757427e0\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_c8148d646c8e660772caaf0aaa1804ef2ae5befb\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="945ff0bc8a4de11382f3d47e5578b4d6e003cf4f">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6f54e79833df1886e1189564e5d5ee840e907a88\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_16582378010f2b119cb3572aa07569800b6d2442\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d2280f95ac4a27510ebc2db9a13fa4ed99d275e5">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_54b9d45749b93877ab41714b67527dc7c489b0ed\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_9ff064f9327292a168784e856e27ffb86472c338\classes.dex" />
+    </item>
+    <item
+        jar="F:\Git-Synced\DayNightTheme\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\Git-Synced\DayNightTheme\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_feed5ee565d3acd2d8f1d99089aff7d819ef93f5\classes.dex" />
+    </item>
+
+</items>
